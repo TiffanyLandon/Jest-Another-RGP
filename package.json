@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiffanyLandon/Jest-Another-RGP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiffanyLandon/Jest-Another-RGP/issues"
+  },
+  "homepage": "https://github.com/TiffanyLandon/Jest-Another-RGP#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
